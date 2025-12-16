@@ -1,0 +1,26 @@
+body{
+    background-color: antiquewhite;
+   
+}
+h1{
+    text-shadow: none;
+
+    
+}
+div{
+    background-color:beige;
+ text-align: center;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+     border: 2px solid antiquewhite;
+   box-shadow: 0 16px 40px black;
+   margin-left: 350px;
+   margin-right: 350px;
+   margin-top: 200px;
+   height: 170px;
+}button{
+   background-color:blueviolet;
+   color: white;
+    border-radius: 15px;
+}
